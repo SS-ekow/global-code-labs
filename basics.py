@@ -50,6 +50,7 @@ for i in words:
 
 print(output1)
 print(output2)
+print(output1)
 
 
 
